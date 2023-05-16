@@ -160,3 +160,11 @@ blockquote {
   border-radius: 10px;
   padding: 0 25px;
 }
+
+footer {
+  padding: 2% 10%;
+  background-color: #1f2937;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+}
